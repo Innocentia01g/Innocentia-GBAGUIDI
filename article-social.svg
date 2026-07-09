@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Article réseaux sociaux">
+  <rect width="960" height="600" fill="#0f172a"/>
+  <circle cx="250" cy="190" r="72" fill="#14b8a6"/>
+  <circle cx="470" cy="300" r="92" fill="#fff"/>
+  <circle cx="710" cy="205" r="64" fill="#5eead4"/>
+  <path d="M312 218l86 44M548 270l102-42M470 392v86" stroke="#ccfbf1" stroke-width="18" stroke-linecap="round"/>
+  <text x="150" y="520" fill="#fff" font-family="Poppins, Arial" font-size="48" font-weight="700">Réseaux sociaux</text>
+</svg>

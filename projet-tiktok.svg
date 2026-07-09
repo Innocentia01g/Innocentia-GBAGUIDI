@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Croissance TikTok">
+  <rect width="960" height="600" fill="#f8fafc"/>
+  <rect x="118" y="82" width="724" height="436" rx="34" fill="#0f172a"/>
+  <circle cx="480" cy="284" r="112" fill="#14b8a6"/>
+  <path d="M456 226v128l102-64z" fill="#fff"/>
+  <text x="170" y="442" fill="#fff" font-family="Poppins, Arial" font-size="48" font-weight="700">+18 000 abonnés</text>
+  <text x="170" y="488" fill="#99f6e4" font-family="Poppins, Arial" font-size="26">Contenu vidéo et engagement</text>
+</svg>
